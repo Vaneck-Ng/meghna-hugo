@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image_webp: images/backgrounds/bg-header.webp
   bg_image: images/backgrounds/bg-header.jpg
   icon: ''
